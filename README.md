@@ -8,6 +8,7 @@ Where the other person has to answer as quickly as possible.
 
 The questions are saved in a file.
 
-The code tries to eliminate same questions, it does this most of the time.
+The code tries to eliminate same questions.
+The grammar isn't perfect.
 
 I wrote this code for the fun of it. I hope you have fun with it.
